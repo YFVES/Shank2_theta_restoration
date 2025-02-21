@@ -296,7 +296,7 @@ Sample Data Folder: OptoStim_NeuralData (contains K struct files and LFP struct 
 Run time : depending on the number of sessions 5-10 minutes, for one session about 1~2 minutes 
 
 
-#Python
+# Python
 
 
 This document describes the functions of the python (3.10) codes used in the article: Restoring interbrain prefrontal theta synchronization reverses social deficits. 
