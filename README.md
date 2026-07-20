@@ -304,7 +304,7 @@ Download the entire folder, install all the used libraries using pip(we recommen
 Sample Data are included within the analysis. 
 
 
-# 1.	Regress out analysis(Fig 4)
+# 1.	Regress out analysis
 
 
 Codes in this code are used to perform LFP-social neuron regress out analysis
