@@ -89,8 +89,7 @@ Code that extracts immobile (Rest)data to be included in the K struct
 Run time : depending on the number of sessions 5-10 minutes, for one session about 1~2 minutes 
 
 
-# 2.	Behavior (Fig 1, Extended Fig 1, 2)
-
+# 2.	Behavior
 
 	Xml2struct
 This code is a function code imports behavior data annotated using Adobe Premiere Pro. It reads .xml files. 
@@ -180,7 +179,7 @@ Sample Data Folder : NeuralData (contains K struct files and LFP struct files in
 Run time : depending on the number of sessions 5-10 minutes, for one session about 1~2 minutes 
 
 
-# 4.	NeuronProperties (Extended Data Fig. 3)
+# 4.	NeuronProperties 
 
 
 	Shank2_spike_markEI 
@@ -219,7 +218,7 @@ Run time : depending on the number of sessions 5-10 minutes, for one session abo
 
 
 
-# 5.	auROC (Fig 4, Extended Data Fig. 6)
+# 5.	auROC 
 
 
 	self/otherbehavior_socialnonsocial
@@ -238,7 +237,7 @@ Sample Data Folder: contains .mat files that can be run through self/otherbehavi
 Run time : 30~40 minutes depending on the number of neurons 
 
 
-# 6.	PhaseLock (Fig. 4, Extended Data Fig. 4) 
+# 6.	PhaseLock 
 
 
 	PhaseLock
@@ -257,7 +256,7 @@ Wavelet folder contains all the supporting function codes to run PhaseLock analy
 Run time : depending on the number of sessions 5-10 minutes, for one session about 1~2 minutes 
 
 
-# 7.	Optostimulation (Fig. 5, Extended Data Fig. 5) 
+# 7.	Optostimulation 
 
 
 *Pearson Correlation Coeffcient is referred to as PCC. 
